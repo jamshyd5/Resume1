@@ -1,0 +1,36 @@
+body{
+	font-size: 16pt;
+	font-family: "Times New Roman";
+	margin-left: 50px;
+}
+p{
+	font-size: 10pt;
+}
+h1{
+	color: #228B22;
+}
+li{
+	line-height: 60px;
+	word-spacing: 5px;
+	margin-left: 150px;
+}
+.percentage{
+	float: left;
+	margin-top: -55px;
+	margin-left: 430px;
+}
+.percentage1{
+	float: left;
+	margin-top: -55px;
+	margin-left: 430px;
+}
+.percentage2{
+	float: left;
+	margin-top: -55px;
+	margin-left: 430px;
+}
+.percentage3{
+	float: left;
+	margin-top: -55px;
+	margin-left: 430px;
+}
